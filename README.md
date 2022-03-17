@@ -27,13 +27,13 @@ I'm @sbstn7 🤖, **full stack developer** 👨‍💻 from 🇲🇽 Mexico city
   
 </p>
 
-#### 🌱 Learning
+### 🌱 Learning
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-###📫 You can also connect with me on
+### 📫 You can also connect with me on
 
  <p>
   <a href="https://codepen.io/sbstn7" target="_blank"><img alt="Codepen" src="https://img.shields.io/badge/-Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
