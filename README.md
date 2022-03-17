@@ -5,9 +5,8 @@ I'm @sbstn7 🤖, **full stack developer** 👨‍💻 from 🇲🇽 Mexico city
 
 ### About me
 
--  I enjoy to explore new trends and learn new technologies.
+-  I enjoy to explore new trends and learn new technologies. 
 -  I'm on track for learning more about Go, React and TypeScript.
-- 💬 Ask me about Web Development
 - ⚡ Fun fact: I'm an Arsenal fan. 
 
 ### 🔭 Tech Stack
@@ -34,6 +33,10 @@ I'm @sbstn7 🤖, **full stack developer** 👨‍💻 from 🇲🇽 Mexico city
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+
+### 💬 Ask me about 
+
 
 
 ### 📫 You can also connect with me on
