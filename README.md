@@ -4,7 +4,7 @@ I'm @sbstn7 🤖, **full stack developer** 👨‍💻 from 🇲🇽 Mexico city
 
 <img align='right' src="https://user-images.githubusercontent.com/65737236/158903434-fb55d94a-d646-4761-982e-8daea19582c6.gif" width="340">
 
-### About me
+### 🐉 About me
 
 -  I enjoy to explore new trends and learn new technologies. 
 -  I'm on track for learning more about Go, React and TypeScript.
