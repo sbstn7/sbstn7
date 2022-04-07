@@ -8,7 +8,7 @@ I'm @sbstn7 🤖, **full stack developer** 👨‍💻 from 🇲🇽 Mexico city
 
 -  I enjoy to explore new trends and learn new technologies. 
 -  I'm on track for learning more about Go, React and TypeScript.
--  Fun fact
+-  Fun fact: 
       I scream out loud every time I solve a bug. I can't help it 🤷‍♂️
 
 ### 🔭 Tech Stack
