@@ -40,6 +40,7 @@ I'm @sbstn7 🤖, **full stack developer** 👨‍💻 from 🇲🇽 Mexico city
 
 ### 💬 Ask me about 
 
+- Anything. Let's talk about science, music, movies, stories, ideas, thoughts, dreams, tech.
 
 
 ### 📫 You can also connect with me on
